@@ -3,12 +3,31 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   "/",
   {
+    text: "勇敢牛牛",
+    icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/%E7%89%9B%E7%89%9B.svg",
+    prefix: "/Ygnn",
+    children: [
+      {
+        text: "Java Demo(周哥 Java 基础)",
+        icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E6%A1%88%E4%BE%8B.svg",
+        prefix: "/JavaDemo",
+        children: ["", { text: "...", icon: "ellipsis", link: "" }],
+      },
+      {
+        text: "ColaAList",
+        icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/%E7%BD%91%E7%9B%98.svg",
+        prefix: "/ColaAList",
+        children: ["", { text: "...", icon: "ellipsis", link: "" }],
+      }
+    ],
+  },
+  {
     text: "工具实用类 🔧🔧",
     icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E5%B7%A5%E5%85%B7.svg",
     prefix: "/Tools",
     children: [
       {
-        text: "IDEA 使用教程（详细）",
+        text: "IDEA 的安装和使用",
         icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/intellijidea.svg",
         prefix: "/HelloIDEA",
         children: ["", { text: "...", icon: "ellipsis", link: "" }],
