@@ -1,0 +1,6 @@
+.idea
+vue-docs/node_modules
+*.iml
+vue-docs/src/.vuepress/.cache/
+vue-docs/src/.vuepress/.temp/
+vue-docs/src/.vuepress/dist/
