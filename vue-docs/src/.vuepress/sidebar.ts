@@ -4,14 +4,21 @@ export default sidebar({
   "/": [
     "",
     {
-      text: "工具实用类 🔧🔧",
+      text: "勇敢牛牛 🐄🐄 ",
+      icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/%E7%89%9B%E7%89%9B.svg",
+      prefix: "Ygnn/",
+      link: "Ygnn/",
+      children: "structure",
+    },
+    {
+      text: "实用工具🔧🔧 ",
       icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E5%B7%A5%E5%85%B7.svg",
       prefix: "Tools/",
       link: "Tools/",
       children: "structure",
     },
     {
-      text: "技术类 🧑‍💻🧑‍💻",
+      text: "🧑‍💻 技术类 🧑‍💻",
       icon: "https://yong-gan-niu-niu-1311841992.cos.ap-beijing.myqcloud.com/images/%E6%8A%80%E5%B7%A7.svg",
       prefix: "Skills/",
       link: "Skills/",
