@@ -10,6 +10,8 @@ category:
 ---
 
 - [Typora 基本语法](typora-01.md)
+- [Picgo 搭配 COS 实现在线图床](typora-02.md)
+- [Typora 的破解及配置](typora-03.md)
 
 ## 概述
 

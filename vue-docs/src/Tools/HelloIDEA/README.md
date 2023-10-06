@@ -9,7 +9,12 @@ category:
   - README
 ---
 
-- [IDEA 的使用及相关配置](idea-01.md)
+- [IDEA 的安装及基础配置](idea-01.md)
+- [IDEA 插件配置](idea-02.md)
+- [IDEA 使用技巧](idea-03.md)
+- [IDEA 环境配置](idea-04.md)
+- [破解 IDEA  等开发工具](idea-05.md)
+- [IDEA 等工具中常用插件及破解](idea-06.md)
 
 
 ## 概述
