@@ -48,9 +48,9 @@ export default hopeTheme({
     comment: {
       provider: "Giscus",
       repo: "cola777jz/HelloWorld-doc-vue",
-      repoId: "R_kgDOKco_Iw",
+      repoId: "R_kgDOKcrZdw",
       category: "Announcements",
-      categoryId: "DIC_kwDOKco_I84CZ50G",
+      categoryId: "DIC_kwDOKcrZd84CZ57Z",
     },
 
     // All features are enabled for demo, only preserve features you need here
